@@ -26,6 +26,4 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ## 📊 GitHub Stats
-![xentropic-dev's Stats](https://github-readme-stats.vercel.app/api?username=xentropic-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![xentropic-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xentropic-dev&theme=tokyonight&hide_border=true)
-![xentropic-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xentropic-dev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=xentropic-dev&theme=synthwave)](https://git.io/streak-stats)
