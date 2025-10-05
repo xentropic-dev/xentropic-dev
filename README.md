@@ -8,7 +8,7 @@
 - 🏭 Building **[ProtoNexus](https://protonexus.io)** - Next-gen industrial data broker with visual ETL workflows, Python scripting, and OPC UA connectivity. Solving the expensive, inflexible data broker problem in industrial automation
 - 🔧 Creating **[zopcua](https://github.com/xentropic-dev/zopcua)** - Idiomatic Zig wrapper for open62541 (OPC UA)
 - 🔭 Developing **[Explorer.Dotnet.nvim](https://github.com/xentropic-dev/explorer.dotnet.nvim)** - Bringing Visual Studio-level C# tooling to Neovim
-- 💼 Day job: **System Analyst/Developer @ Kalamazoo Valley Community College** - Building software systems that support their mission to create innovative and equitable opportunities that empower all to learn, grow and thrive
+- 💼 Day job: **System Analyst/Developer @ [Kalamazoo Valley Community College](https://www.kvcc.edu/)** - Building software systems that support their mission to create innovative and equitable opportunities that empower all to learn, grow and thrive
 
 ## 🛠️ Tech Stack
 
