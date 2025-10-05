@@ -2,6 +2,8 @@
 
 ### Founder @ Xentropic Labs | Building an AI-powered industrial data broke for Industry 4.0 ⚡
 
+---
+
 ## 🚀 What I'm Up To
 - 🏭 Building **[ProtoNexus](https://protonexus.io)** - Next-gen industrial data broker with visual ETL workflows, Python scripting, and OPC UA connectivity. Solving the expensive, inflexible data broker problem in industrial automation
 - 🔧 Creating **[zopcua](https://github.com/xentropic-dev/zopcua)** - Idiomatic Zig wrapper for open62541 (OPC UA)
@@ -31,6 +33,8 @@
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xentropic-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
@@ -52,4 +56,9 @@ A Neovim plugin for C# development, bringing Visual Studio and Rider-style solut
 
 ### [🏭 zopcua](https://github.com/xentropic-dev/zopcua)
 A Zig wrapper for open62541, bringing idiomatic Zig patterns to industrial OPC UA communication. Abstracts C bitfield complexities with error return types, tagged unions, and safe memory handling. Ships with vendored mbedTLS for zero-dependency builds. Built with **Zig**.
+
+### [🧠 nnSandbox](https://github.com/xentropic-dev/nnSandbox)
+Educational neural network framework built from scratch for MNIST digit recognition. Features custom backpropagation, SGD optimizer with momentum, and a Windows Forms GUI for visualizing training in real-time. Achieves 97% accuracy with pretrained models. A hands-on learning project exploring the fundamentals of deep learning. Built with **C#**.
+
+---
 
