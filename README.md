@@ -1,4 +1,10 @@
 ## Hi there 👋
+## 🚀 What I'm Up To
+
+
+- 🏭 Building **[ProtoNexus](https://protonexus.io)** - Next-gen industrial data broker with visual ETL workflows, Python scripting, and OPC UA connectivity. Solving the expensive, inflexible data broker problem in industrial automation
+- 🔧 Creating **[zopcua](https://github.com/xentropic-dev/zopcua)** - Idiomatic Zig wrapper for open62541 (OPC UA)
+- 🔭 Developing **[Explorer.Dotnet.nvim](https://github.com/xentropic-dev/explorer.dotnet.nvim)** - Bringing Visual Studio-level C# tooling to Neovim
 
 ## 🛠️ Tech Stack
 
