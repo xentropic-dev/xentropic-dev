@@ -56,7 +56,7 @@
 A Neovim plugin for C# development, bringing Visual Studio and Rider-style solution explorer and project management to Neovim. Features solution file parsing, project tree building, and intelligent C# file management. Part of a series aimed at making Neovim a complete C# development environment. Built with **Lua**.
 
 ### [🏭 zopcua](https://github.com/xentropic-dev/zopcua)
-A Zig wrapper for open62541, bringing idiomatic Zig patterns to industrial OPC UA communication. Abstracts C bitfield complexities with error return types, tagged unions, and safe memory handling. Ships with vendored mbedTLS for zero-dependency builds. Built with **Zig**.
+A Zig wrapper for open62541, bringing idiomatic Zig patterns to industrial OPC UA communication. Abstracts C bitfield complexities with helper functions, adds error return types, tagged unions, and safe memory handling. Ships with vendored mbedTLS for zero-dependency builds. Built with **Zig**.
 
 ### [🧠 nnSandbox](https://github.com/xentropic-dev/nnSandbox)
 Educational neural network framework built from scratch for MNIST digit recognition. Features custom backpropagation, SGD optimizer with momentum, and a Windows Forms GUI for visualizing training in real-time. Achieves 97% accuracy with pretrained models. A hands-on learning project exploring the fundamentals of deep learning. Built with **C#**.
